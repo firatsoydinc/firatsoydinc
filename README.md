@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @firatsoydinc
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Data analysis projects
 - 📫 How to reach me firatsoydinc@hotmail.com
 
