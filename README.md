@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @firatsoydinc
-- 👀 I’m interested in Data Science
-- 💞️ I’m looking to collaborate on Data analysis projects
+- 👋 Hi, I’m @firatsoydinc and I'm data scientist at FedEx. 
+- 👀 I’m interested in Machine Learning.
+- 💞️ I’m looking to collaborate on Data Science projects.
 - 📫 How to reach me firatsoydinc@hotmail.com
 
 <!---
