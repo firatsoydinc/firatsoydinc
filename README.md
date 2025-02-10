@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @firatsoydinc and I'm data scientist at FedEx. 
+- 👋 Hi, I’m @firatsoydinc and I'm data scientist at Milence. 
 - 👀 I’m interested in Machine Learning.
 - 💞️ I’m looking to collaborate on Data Science projects.
 - 📫 How to reach me firatsoydinc@hotmail.com
